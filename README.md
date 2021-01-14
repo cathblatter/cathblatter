@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-⚡ Fun fact: I'm famous for debugging code while showering 🚿
 
 <!--
 **cathblatter/cathblatter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: they/she
+
+⚡ I'm famous for debugging code while showering 🚿
 
 -->

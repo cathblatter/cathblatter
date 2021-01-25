@@ -1,4 +1,4 @@
-### Nice to meet you here 👋
+### Hi 👋
 
 I'm wrangling all kinds of health services research data with R (by day) and any other data (eg. fitness tracker, household budget) by night. 
 I am particularly picky about writing "safe" code. I also like to improve my coding skills in general, currently: 

@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-⚡ I'm famous for debugging code while showering 🚿
-
 🌱 I’m currently learning basics in CSS and HTML
+
+👯 I’m looking to collaborate on R packages to dive into testing of code.
 
 <!--
 **cathblatter/cathblatter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

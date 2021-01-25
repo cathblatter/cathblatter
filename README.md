@@ -2,6 +2,8 @@
 
 ⚡ I'm famous for debugging code while showering 🚿
 
+🌱 I’m currently learning basics in CSS and HTML
+
 <!--
 **cathblatter/cathblatter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
